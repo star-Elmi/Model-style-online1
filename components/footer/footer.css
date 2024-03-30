@@ -1,0 +1,21 @@
+.footer{
+    /* width: 200vw; */
+    height: 4rem;
+    background-color: rgb(40, 40, 40);
+    /* background-color: white ; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* font-weight: 300; */
+    font-size: smaller;
+
+}
+.mycontact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 20;
+    font-size: 1rem;
+    color: black ;
+    /* background-color: white; */
+}
